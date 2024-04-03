@@ -1,0 +1,123 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+header {
+ width: 100%;
+ height: 10vh;   
+ display: flex;
+ gap: 300px;
+ align-items: center;
+ padding: 10px 100px;
+ }
+nav {
+display: flex;
+gap: 30px;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.5s ease;
+}
+nav a:hover {
+    color: #0082f3;
+}
+main {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+.main_text h1 {
+font-size: 55px;
+font-weight: 300;
+color: black;
+}
+.main_text p {
+font-size: 24px;
+font-weight: 300;
+color: black;
+line-height: 40px;
+}
+.texl {
+    width: 159px;
+    height: 20px;
+    margin-inline: auto;
+    font-size: 17px;
+    font-weight: 400;
+}
+.tex1 {
+    width: 248px;
+    height: 25px;
+    margin-inline: auto;
+    font-size: 16px;
+    font-weight: 400;
+}
+.imj {
+   margin-left: 110px;
+   width: 53px;
+   height: 60px;
+   border-radius: 5px;
+   margin-top: 15px;
+}
+.logo38{
+    width: 303px;
+    height: 327px;
+    box-shadow: 1px 0px 10px 0px #B7B7B7;
+    border-top: 12px solid #31C5A1;
+}
+
+.logo3888{
+    width: 303px;
+    height: 327px;
+    box-shadow: 1px 0px 10px 0px #B7B7B7;
+    border-top: 12px solid  #582EFF;
+}
+.logo388{
+    width: 303px;
+    height: 327px;
+    box-shadow: 1px 0px 10px 0px #B7B7B7;
+    border-top: 12px solid #FF814A;
+}
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+button {
+    border-radius: 100%;
+    background-color: #352283;
+    font: size 30px;
+    padding: 8px 10px;
+    color: white;
+    cursor: pointer;
+}
+.v329t8 {
+    width: 1440px;
+    height: 371px;
+    background-color: #31C5A1;
+}
+.v124 {
+text-align: center;
+}
+.klass {
+    width: 132px;
+    height: 50px;
+    margin-inline: auto;
+    margin-left: 400px;
+}
+.klas3 {
+    width: 132px;
+    height: 50px;
+    margin-inline: auto;
+}
+.kla22 {
+    display: flex;
+    justify-content: end;
+}
